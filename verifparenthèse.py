@@ -1,8 +1,8 @@
 import socket
 import time
 
-HOST = '37.59.31.202'  # L'adresse IP du serveur
-PORT = 2000  # Le port du serveur
+HOST = '127.0.0.1'  # L'adresse IP du serveur
+PORT = 9999  # Le port du serveur
 
 open_list = ["[","{","("]
 close_list = ["]","}",")"]
